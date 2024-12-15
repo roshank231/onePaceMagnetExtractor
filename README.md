@@ -1,4 +1,13 @@
-# onePaceMagnetExtractor
+# onePaceMagnetExtractor [Broken]
+
+With the origonal OnePace site now gone this tool is dead and will be archived as of today.
+-------------------------------------------------------------------------------------------
+
+
+
+
+
+
 
 A script to extract magnet links from the OnePace site.
 
