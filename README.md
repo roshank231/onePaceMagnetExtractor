@@ -1,6 +1,6 @@
 # onePaceMagnetExtractor [Broken]
 
-With the origonal OnePace site now gone this tool is dead and will be archived as of today.
+With the original OnePace site now gone this tool is dead and will be archived as of today.
 -------------------------------------------------------------------------------------------
 
 
